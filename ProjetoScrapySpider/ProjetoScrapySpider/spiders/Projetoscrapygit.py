@@ -2,7 +2,7 @@ import scrapy
 
 class Projetoscrapygit (scrapy.Spider):
     
-    name = "coletor"
+    name = "XPTO"
 
     def start_requests(self):
 
